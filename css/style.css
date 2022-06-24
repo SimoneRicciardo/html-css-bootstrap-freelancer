@@ -1,0 +1,23 @@
+.my_min_w_text{
+    min-width: 70%;
+}
+
+.w_img{
+    width: 100%;
+    min-width: 110px;
+}
+
+.my_rule{
+    width: 30%;
+    border: 1px solid;
+    border-radius: 30px;
+    display: inline-block;
+}
+
+.my_hover{
+    display: none;
+}
+
+.hover_rule:hover .my_hover{
+    display: block;
+}
